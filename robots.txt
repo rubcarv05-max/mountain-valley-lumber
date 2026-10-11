@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rubcarv05-max.github.io/mountain-valley-lumber/sitemap.xml
